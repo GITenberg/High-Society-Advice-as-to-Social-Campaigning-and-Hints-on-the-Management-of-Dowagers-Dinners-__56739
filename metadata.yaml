@@ -1,0 +1,47 @@
+_repo: High-Society-Advice-as-to-Social-Campaigning-and-Hints-on-the-Management-of-Dowagers-Dinners-__56739
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fish, Anne Harriet
+    gutenberg_agent_id: '49011'
+    url: http://www.gutenberg.org/2009/agents/49011
+creator:
+  authors:
+  - agent_name: Parker, Dorothy
+    alias: Parker, Dorothy Rothschild
+    birthdate: 1893
+    deathdate: 1967
+    gutenberg_agent_id: '5625'
+    url: http://www.gutenberg.org/2009/agents/5625
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Parker
+  - agent_name: Chappell, George S. (George Shepard)
+    aliases:
+    - Chappell, George Shepard
+    - Traprock, Walter E.
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '2150'
+    url: http://www.gutenberg.org/2009/agents/2150
+    wikipedia: http://en.wikipedia.org/wiki/George_Shepard_Chappell
+  - agent_name: Crowninshield, Frank
+    gutenberg_agent_id: '49010'
+    url: http://www.gutenberg.org/2009/agents/49010
+description: ''
+gutenberg_issued: '2018-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'High Society
+
+  Advice as to Social Campaigning, and Hints on the Management
+
+  of Dowagers, Dinners, Debutantes, Dances, and the Thousand
+
+  and One Diversions of Persons of Quality'
+url: http://www.gutenberg.org/ebooks/56739
